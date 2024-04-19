@@ -18,7 +18,7 @@ export default function Home() {
                 }}
             >
                 <img
-                    src="/images/bg.jpg"
+                    src="https://scontent.fhan17-1.fna.fbcdn.net/v/t39.30808-6/356641983_108394372308549_1848358487784148127_n.jpg?stp=cp6_dst-jpg&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGKn-YSndDeBAprjQTIVvyTsZ8mO7Lq5daxnyY7surl1vagZPLJ_mTCpUHaTwcj8HsMKtx2OoONVoHDlJkE05Mm&_nc_ohc=y0VdESw-fkcAb4k5Hpf&_nc_ht=scontent.fhan17-1.fna&oh=00_AfC450APWvKNawoly6BdqIAXMpdga7kcosPLsAo6cPD1gw&oe=6627FC0E"
                     width={600}
                     height={600}
                     className='justify-center'
