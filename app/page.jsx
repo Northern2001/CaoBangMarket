@@ -1,11 +1,6 @@
-'use client'
-import React, {useState} from "react";
-import {images} from "@/lib/images";
-import {Swiper, SwiperSlide} from "swiper/react";
 import Image from "next/image";
 
 export default function Home() {
-    const [swiper, setSwiper] = useState(null)
   return (
         <div>
             <div className="container">
