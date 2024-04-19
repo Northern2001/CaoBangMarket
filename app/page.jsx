@@ -17,7 +17,7 @@ export default function Home() {
                     justifyContent: "center",
                 }}
             >
-                <Image
+                <img
                     src="/images/bg.jpg"
                     width={600}
                     height={600}
